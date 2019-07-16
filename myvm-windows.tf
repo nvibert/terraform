@@ -23,7 +23,7 @@ data "vsphere_network" "network" {
 }
 
 data "vsphere_virtual_machine" "template" {
-  name          = "Windows-Template-Update-Tools-Running"
+  name          = "Windows-Template"
   datacenter_id = "${data.vsphere_datacenter.dc.id}"
 }
 
