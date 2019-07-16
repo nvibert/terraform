@@ -1,4 +1,4 @@
-<strong><Nico's Terraform Scripts</strong><
+<strong>Nico's Terraform Scripts</strong>
 
 
 You will need to download provider.tf, vars.tf and terraform.tfvars file.
