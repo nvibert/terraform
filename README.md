@@ -21,5 +21,5 @@ If you're new to Terraform:
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Download the files from the repo/li><li>Update the files with the right variables (cluster, resource pool, template, network, passwords, etc... )</li><li>Run the following commands (make sure Terraform is in the PATH or if not, that the files are in the same place as your Terraform exe if you're using Windows):<ul><li>terraform init</li><li>terraform plan </li><li>terraform apply</li><li>[terraform destroy]</li></ul></li><li>And that's it!</li></ul>
+<ul><li>Download the files from the repo</li><li>Update the files with the right variables (cluster, resource pool, template, network, passwords, etc... )</li><li>Run the following commands (make sure Terraform is in the PATH or if not, that the files are in the same place as your Terraform exe if you're using Windows):<ul><li>terraform init</li><li>terraform plan </li><li>terraform apply</li><li>[terraform destroy]</li>
 <!-- /wp:list -->
