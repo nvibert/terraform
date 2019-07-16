@@ -9,7 +9,7 @@ I have uploaded a working template for Windows and for Linux.
 If you're new to Terraform:
 
 <!-- wp:paragraph -->
-<p>On Mac, the easies thing would be to:</p>
+<p>On Mac, the easiest thing would be to:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
