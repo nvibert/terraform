@@ -1,5 +1,6 @@
 <strong>Nico's Terraform Scripts</strong>
 
+These scripts are for Terraform for vSphere.
 
 You will need to download provider.tf, vars.tf and terraform.tfvars file.
 
